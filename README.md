@@ -97,4 +97,5 @@ The primary objective of this dashboard is to:
 ---
 
 6. Screenshots / Demos
+   (https://github.com/MinalG01/IPL_Analysis_Dashboard/blob/main/Snapshot%20of%20Dashboard.JPG)
 
