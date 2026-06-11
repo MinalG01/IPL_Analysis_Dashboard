@@ -1,4 +1,3 @@
-# IPL_Analysis_Dashboard
 # 🏏 IPL Analysis Dashboard: Historical IPL Insights (2008–2024)
 
 A dynamic and interactive Power BI dashboard developed to analyze Indian Premier League (IPL) data from 2008 to 2024. The dashboard provides comprehensive insights into team performance, player achievements, batting and bowling statistics, tournament outcomes, and match-winning trends through engaging visualizations.
